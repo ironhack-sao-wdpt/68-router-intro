@@ -11,11 +11,20 @@ function Foods() {
         {foods.map((currentFoodObj) => (
           <div className="col mt-3">
             <div className="card" style={{ width: "18rem" }}>
-              <img
-                src={currentFoodObj.img}
-                className="card-img-top"
-                alt={currentFoodObj.name}
-              />
+              <div
+                className="card-img-top d-flex align-items-center"
+                style={{
+                  height: "214px",
+                }}
+              >
+                <img
+                  src={currentFoodObj.img}
+                  alt={currentFoodObj.name}
+                  className="img-fluid"
+                  style={{ objectFit: "cover", maxHeight: "100%" }}
+                />
+              </div>
+
               <div className="card-body">
                 <h5 className="card-title">
                   {currentFoodObj.price.toLocaleString("pt-BR", {
