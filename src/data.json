@@ -1,0 +1,34 @@
+[
+  {
+    "id": 0,
+    "name": "Pão de Queijo",
+    "price": 4,
+    "available": true,
+    "img": "https://img.itdg.com.br/tdg/images/recipes/000/069/468/358656/358656_original.jpg?mode=crop&width=710&height=400",
+    "description": "Pão de queijo or Brazilian cheese bread is a small, baked cheese roll or cheese bun, a popular snack and breakfast food in Brazil. It is a traditional Brazilian recipe, originating in the state of Minas Gerais. Pão de queijo originated in Brazil."
+  },
+  {
+    "id": 1,
+    "name": "Tapioca",
+    "price": 8,
+    "available": true,
+    "img": "https://static.clubedaanamariabraga.com.br/wp-content/uploads/2017/08/tapioca-da-ana-maria-1024x576.jpg",
+    "description": "Tapioca is a starch extracted from the storage roots of the cassava plant, a species native to the North and Northeast regions of Brazil, but whose use is now spread throughout South America. It is a perennial shrub adapted to the hot conditions of tropical lowlands."
+  },
+  {
+    "id": 2,
+    "name": "Sanduíche de Presunto",
+    "price": 5,
+    "available": false,
+    "img": "https://truffle-assets.imgix.net/ed1fb867-sanduiche-de-presunto-s-thumb.jpg?auto=compress,format&fm=pjpg&w=360",
+    "description": "Existem várias e várias formas de montar um sanduíche de presunto. O presunto geralmente combina com queijo e maionese (ou vai dizer que você nunca provou esse clássico?), e também fica bom com vegetais, como tomate, cebola e picles. No caso do queijo, uma combinação interessante e comum é a muçarela, mas também dá para variar e deixar a receita mais fina com queijo suíço ou cheddar."
+  },
+  {
+    "id": 3,
+    "name": "Torta doce",
+    "price": 10,
+    "available": true,
+    "img": "https://static.clubedaanamariabraga.com.br/wp-content/uploads/2019/01/torta-prestigio-de-microondas-659.jpeg",
+    "description": "Além de supercrocante, é versátil: serve para recheios assados (vai ao forno já com o recheio), e para os frios, como uma ganache (nesse caso, assa antes e recebe o recheio depois)."
+  }
+]
